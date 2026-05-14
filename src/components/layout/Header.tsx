@@ -31,7 +31,7 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <Image
-              src="/images/logo-nvd.png"
+              src="/NextVentureDigital-web/images/logo-nvd.png"
               alt="NVD 넥스벤처디지털"
               width={180}
               height={40}

@@ -1,3 +1,5 @@
+export const BASE_PATH = "/NextVentureDigital-web";
+
 export const company = {
   name: "넥스벤처디지털(주)",
   nameEn: "NextVentureDigital",
