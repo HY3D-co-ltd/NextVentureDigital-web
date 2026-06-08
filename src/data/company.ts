@@ -1,8 +1,8 @@
-export const BASE_PATH = "/NextVentureDigital-web";
+export const BASE_PATH = "";
 
 export const company = {
   name: "넥스벤처디지털(주)",
-  nameEn: "NextVentureDigital",
+  nameEn: "NexVentureDigital",
   nameShort: "NVD",
   ceo: "전인오",
   established: "2025년 12월 05일",

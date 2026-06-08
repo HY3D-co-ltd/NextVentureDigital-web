@@ -59,7 +59,7 @@ export default function AboutPage() {
             <ScrollReveal direction="right">
               <div className="relative rounded-2xl overflow-hidden shadow-xl">
                 <Image
-                  src="/NextVentureDigital-web/images/office-building.png"
+                  src="/images/office-building.png"
                   alt="넥스벤처디지털 사무실"
                   width={600}
                   height={400}

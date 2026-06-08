@@ -51,7 +51,7 @@ export const solutions = [
     summary: "도로 결빙 감지 및 경보 시스템",
     description: "듀얼열화상카메라로 노면 온도 데이터를 수집·분석하여 도로 결빙을 판단하고 실시간 경보를 제공합니다.",
     features: ["듀얼열화상카메라 노면 온도 분석", "결빙 판단 및 실시간 경보", "전광판·VMS 연동 경고 시스템"],
-    image: "/NextVentureDigital-web/images/solution-blackice.png",
+    image: "/images/solution-blackice.png",
   },
   {
     id: "jiseong-eye",
@@ -60,7 +60,7 @@ export const solutions = [
     summary: "AI 영상분석 소프트웨어",
     description: "CCTV를 통해 움직임을 자동으로 감지하고 위험 징후를 알려주는 인파 감지 시스템입니다.",
     features: ["이상동기 범죄 예방 (노호모그래픽)", "군중난류 위험 감지 및 알람", "실시간 9채널 움직임 파악"],
-    image: "/NextVentureDigital-web/images/solution-jiseong-eye.png",
+    image: "/images/solution-jiseong-eye.png",
   },
   {
     id: "vehicle-tracking",
@@ -69,7 +69,7 @@ export const solutions = [
     summary: "무인교통단속 및 차량추적 시스템",
     description: "불법 주정차 단속구간에 설치하여 번호판 인식 및 단속영상을 촬영하고 자동으로 단속하는 시스템입니다.",
     features: ["AI 차량번호 자동인식", "실시간 모니터링 및 원격제어", "24시간 무인운영 자동단속"],
-    image: "/NextVentureDigital-web/images/solution-vehicle-tracking.png",
+    image: "/images/solution-vehicle-tracking.png",
   },
 ] as const;
 
